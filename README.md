@@ -37,11 +37,11 @@ cousins, but move up and down within a single column of the maze. RageBots can s
 out anywhere in the maze (depending on where the designer of the maze choses to put
 them).
 
+<p align = "center"> 
   <img src = https://github.com/user-attachments/assets/f2e5c740-3fe1-4feb-a95f-977cd98856b7
-width = "200">
-
-  <img src = https://github.com/user-attachments/assets/01f302fe-7e8e-43d1-9ff3-d1c013111368 width = "200">
-
+width = "200"/>
+  <img src = https://github.com/user-attachments/assets/01f302fe-7e8e-43d1-9ff3-d1c013111368 width = "200"/>
+<p/>
 
 In contrast to the RageBot, the ThiefBots are a bit nastier. These robots wander around
 the maze looking for goodies to steal. If they happen to step onto a goodie (an extra life
