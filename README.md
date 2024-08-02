@@ -27,8 +27,8 @@ the same square as a restore health goodie, it will restore the player to full h
 of having been injured by shots from the robots). Finally, if the avatar steps onto the same
 square as an ammo goodie, it will give the player 20 additional peas.
 
-There are four major types of robots in Marble Madness: Horizontal RageBots, Vertical
-RageBots, Regular ThiefBots and Mean ThiefBots. 
+There are four major types of robots in Marble Madness: Horizontal RageBots, **Vertical
+RageBots, Regular ThiefBots and Mean ThiefBots**. 
 As mentioned, RageBots fall into two categories – Horizontal RageBots and Vertical
 RageBots. Horizonal RageBots simply move back and forth on a row of the screen (only
 reversing course when they run into an obstacle), shooting at the player’s avatar if he/she
