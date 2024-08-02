@@ -39,11 +39,11 @@ them).
 
 <p align = "center">
   <img src = https://github.com/user-attachments/assets/f2e5c740-3fe1-4feb-a95f-977cd98856b7
->
+width = "200">
 </p>
 
 
-  <img src = https://github.com/user-attachments/assets/01f302fe-7e8e-43d1-9ff3-d1c013111368>
+  <img src = https://github.com/user-attachments/assets/01f302fe-7e8e-43d1-9ff3-d1c013111368 width = "200">
 
 
 In contrast to the RageBot, the ThiefBots are a bit nastier. These robots wander around
