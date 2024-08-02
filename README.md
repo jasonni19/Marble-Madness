@@ -72,7 +72,6 @@ width = "200"/>
 <h2 align = "center"> Click here to see a demonstration! (I did not win) </h2>
 <p align="center">
   <a href="https://youtu.be/uIwTUBQ5nFA" target="_blank">
-    <img src="https://github.com/user-attachments/assets/031096d4-3b1c-43fc-bc49-bf4f9c9a52cf
-" alt="YouTube Video">
+    <img src="https://github.com/user-attachments/assets/031096d4-3b1c-43fc-bc49-bf4f9c9a52cf" alt="YouTube Video">
   </a>
 </p>
