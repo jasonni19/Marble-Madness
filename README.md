@@ -1,5 +1,7 @@
 # Marble-Madness
 
+![image](https://github.com/user-attachments/assets/7badb19c-8afd-412e-af59-8c01c12f0c66)
+
 In Marble Madness, the player starts out a new game with three lives and continues to
 play until all of his/her lives have been exhausted. There are multiple levels in Marble
 Madness, beginning with level 0, and each level has its own maze. During each level, the
