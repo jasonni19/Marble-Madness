@@ -1,4 +1,4 @@
-<h1 align = "center"> **Marble-Madness** </h1>
+<span style = "font-family: Impact, Charcoal, sans-serif;"> <h1 align = "center"> Marble-Madness </h1> </span>
 
 <p align = "center">
   <img src = https://github.com/user-attachments/assets/b2d9e27c-7a2b-42ff-b960-62c8e9259b54>
