@@ -9,6 +9,7 @@ play until all of his/her lives have been exhausted. There are multiple levels i
 Madness, beginning with level 0, and each level has its own maze. During each level, the
 player must gather all of the blue crystals within the current maze before the exit is
 revealed and they may use it to move on to the next level.
+
 Upon starting each level, the player’s avatar is placed in a maze filled with one or more
 blue crystals, marbles, pits, robots, robot factories and other goodies. The player may use
 the arrow keys to move their avatar (the Indiana Jones-looking character) left, right, up
@@ -25,8 +26,9 @@ as an extra life goodie, it instantly gives the player an extra life. If the ava
 the same square as a restore health goodie, it will restore the player to full health (in case
 of having been injured by shots from the robots). Finally, if the avatar steps onto the same
 square as an ammo goodie, it will give the player 20 additional peas.
+
 There are four major types of robots in Marble Madness: Horizontal RageBots, Vertical
-RageBots, Regular ThiefBots and Mean ThiefBots
+RageBots, Regular ThiefBots and Mean ThiefBots. 
 As mentioned, RageBots fall into two categories – Horizontal RageBots and Vertical
 RageBots. Horizonal RageBots simply move back and forth on a row of the screen (only
 reversing course when they run into an obstacle), shooting at the player’s avatar if he/she
@@ -44,11 +46,10 @@ around the maze looking for, and picking up, goodies. They are otherwise harmles
 will not fire upon the player’s avatar. In contrast, in addition to picking up goodies, Mean
 ThiefBots will fire a pea anytime the player steps in their path. So beware! When any
 type of ThiefBot dies, if it previously picked up a goodie, it will drop this object upon its
-square in the maze.
-
-ThiefBots are created by ThiefBot factories, of which there are two types – one that
+square in the maze. ThiefBots are created by ThiefBot factories, of which there are two types – one that
 produces Regular ThiefBots and one that produces Mean ThiefBots. ThiefBots never
 start out in the maze; they are added only by factories.
+
 Once the player has collected all of the blue crystals within the current maze, an exit will
 appear. The exit is invisible and unusable until all of the crystals have been collected
 from the level. Once the exit has been revealed, the player must direct their avatar to the
