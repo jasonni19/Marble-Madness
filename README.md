@@ -69,7 +69,7 @@ last level!
 width = "200"/>
 <p/>
 
-<h2 Click here to see a demonstration! (I did not win)
+<h2>Click here to see a demonstration! (I did not win)
 </h2>
 
 <p align="center">
