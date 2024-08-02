@@ -69,10 +69,9 @@ last level!
 width = "200"/>
 <p/>
 
-# Click here to see a demonstration! (I did not win)
+<h2 align = "center"> Click here to see a demonstration! (I did not win) </h2>
 <p align="center">
   <a href="https://youtu.be/uIwTUBQ5nFA" target="_blank">
-    <img src="https://github.com/user-attachments/assets/43510f6b-97f2-41aa-8ccc-388c91faed1b
-" alt="YouTube Video">
+    <img src="https://github.com/user-attachments/assets/b2d9e27c-7a2b-42ff-b960-62c8e9259b54" alt="YouTube Video">
   </a>
 </p>
