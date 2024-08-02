@@ -42,10 +42,9 @@ them).
 >
 </p>
 
-<p align = "center">
-  <img src = https://github.com/user-attachments/assets/01f302fe-7e8e-43d1-9ff3-d1c013111368
->
-</p>
+
+  <img src = https://github.com/user-attachments/assets/01f302fe-7e8e-43d1-9ff3-d1c013111368>
+
 
 In contrast to the RageBot, the ThiefBots are a bit nastier. These robots wander around
 the maze looking for goodies to steal. If they happen to step onto a goodie (an extra life
