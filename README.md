@@ -63,3 +63,8 @@ exit in order to advance to the next level. The player will be granted 2000 poin
 exiting a level. The player will also be given a bonus for completing the level quickly, if
 they did so fast enough. The game is complete once the player has used the exit on the
 last level!
+
+<p align = "center"> 
+  <img src = https://github.com/user-attachments/assets/4aad2d41-ce83-4a77-b81e-7a9d79e99718
+width = "200"/>
+<p/>
