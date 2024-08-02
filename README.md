@@ -1,7 +1,7 @@
 # Marble-Madness
 
 <p align = "center">
-  <img src = https://github.com/user-attachments/assets/b2d9e27c-7a2b-42ff-b960-62c8e9259b54)>
+  <img src = https://github.com/user-attachments/assets/b2d9e27c-7a2b-42ff-b960-62c8e9259b54>
 </p>
 
 In Marble Madness, the player starts out a new game with three lives and continues to
