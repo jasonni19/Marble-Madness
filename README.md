@@ -1,4 +1,4 @@
-<h1> Marble-Madness</h1>
+<p align = "center"> <h1> Marble-Madness</h1> </p>
 
 <p align = "center">
   <img src = https://github.com/user-attachments/assets/b2d9e27c-7a2b-42ff-b960-62c8e9259b54>
